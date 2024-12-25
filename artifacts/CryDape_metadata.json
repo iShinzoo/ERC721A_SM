@@ -309,7 +309,7 @@
 				],
 				"name": "mint",
 				"outputs": [],
-				"stateMutability": "nonpayable",
+				"stateMutability": "payable",
 				"type": "function"
 			},
 			{
@@ -678,11 +678,11 @@
 	},
 	"sources": {
 		"CryDapeNFT.sol": {
-			"keccak256": "0x9bc4716945040039b0aa51e5c776e8c42ea8e482c516cf745fe337e5e24fd226",
+			"keccak256": "0xa0912462d5516b020cbbaf55472c8800428a77a676c5523adaf71dd2467429d6",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://d25dcb5cc79b21debff68ec67f5e3131a69f3ababba5acdb45945f345861c6fe",
-				"dweb:/ipfs/QmUtFijHFgwKDNrPdUqdLwgk48a9mVNVByduWxrXJPEutw"
+				"bzz-raw://70a7ab95d923d2680e63d67aa64d1e1cc47bf966382dd8d91056cf589cdff6a3",
+				"dweb:/ipfs/QmRnpVLc4AQpT7AxN9bqAQi8CqPxBKMJCJZVVPGjzcgNGH"
 			]
 		},
 		"erc721a/contracts/ERC721A.sol": {
